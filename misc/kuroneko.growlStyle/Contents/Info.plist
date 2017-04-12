@@ -17,13 +17,13 @@
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleSignature</key>
-	<string>Grass</string>
+	<string>grassii</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>CSResourcesFileMapped</key>
 	<string>yes</string>
 	<key>GrowlPluginAuthor</key>
-	<string>Grass</string>
+	<string>grassii</string>
 	<key>GrowlHasShadow</key>
 	<false/>
 	<key>GrowlPaddingX</key>
