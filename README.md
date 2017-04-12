@@ -18,8 +18,19 @@ ruri -av
 **[1-999] {Audio device name}** here you can find out which audio device you'd like for ruri to record.
 
 Change the value of the **video** and **audio** variables in ruri.sh (Line 4/5) accordingly.
+```
+#AUDIO/VIDEO
 
-To
+video=0
+audio=2
+```
+You can also change the filehoster in ruri.sh by editing the **host**, **up_url** and **down_url** variables.
+```
+#FILE HOST
+host="pomfe.co"
+up_url="https://pomfe.co/upload.php"
+down_url="https://a.pomfe.co"
+```
 
 ## Usage
 
