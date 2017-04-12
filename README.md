@@ -15,6 +15,7 @@ I'm using **growlnotify** for the custom notifications. You can find my **Growl 
 
 You'll need:
 [Growl + growlnotify](http://growl.info/)
+
 [ffmpeg](https://www.ffmpeg.org)
 ```
 brew install ffmpeg --with-libvpx
