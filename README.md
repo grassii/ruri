@@ -1,8 +1,8 @@
-## ruri
+# ruri
 
 A **shitty bash script for macOS** that lets you record your desktop via ffmpeg, convert it to .webm and upload it directly to your favourite pomf.se clone
 
-# Setup
+## Setup
 
 place the script on your **$PATH** and make an alias in your .bashrc or .bash_profile for maximum comfort
 
@@ -10,7 +10,7 @@ place the script on your **$PATH** and make an alias in your .bashrc or .bash_pr
 alias ruri="bash ruri.sh"
 ```
 
-# Usage
+## Usage
 
 ```
 ruri [filename] [-args]
