@@ -22,7 +22,7 @@ ruri [filename] [-args]
 Arguments:
 ```
 -h:     Opens the help menu (this)
--av:    Lists audio/video output devices
+-av:    Lists audio/video devices
 -s:     Records audio output (Default: no audio)
 -60:    Switches to 60fps (Default: 30fps) NOTE: not currently compatible with -s
 -720p:  Switches to 720p (Default: 1080p)
