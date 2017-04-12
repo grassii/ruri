@@ -54,4 +54,4 @@ Arguments:
 
 ## Demonstration
 
-[Here!](https://raw.githubusercontent.com/grassii/ruri/master/demonstration.webm)
+[Here!](/images/demo.gif)
