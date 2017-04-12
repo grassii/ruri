@@ -54,4 +54,4 @@ Arguments:
 
 ## Demonstration
 
-[Here!](/images/demo.gif)
+![](images/demo.gif)
