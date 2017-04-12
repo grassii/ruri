@@ -14,8 +14,8 @@ I'm using **growlnotify** for the custom notifications. You can find my **Growl 
 ## Dependencies
 
 You'll need:
-1. growlnotify
-2. ffmpeg
+-growlnotify
+-ffmpeg
 
 Although you can replace the growl notifications with something like [terminal-notifier](https://github.com/julienXX/terminal-notifier) (which just isn't as aesthetically pleasing as growl since it is much more customizable.
 
