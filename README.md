@@ -11,6 +11,10 @@ I'm using **growlnotify** for the custom notifications. You can find my **Growl 
 
 [Fullscreen Demo](https://a.pomfe.co/yiyuvla.webm)
 
+## Dependencies
+
+You'll need **growlnotify** and **ffmpeg** for this to work
+
 ## Setup
 
 Place the script on your **$PATH** and make an alias in your .bashrc or .bash_profile for maximum comfort
