@@ -4,7 +4,7 @@ A **shitty bash script for macOS** that lets you record your desktop via ffmpeg,
 
 ## Usage
 
-place the script on your $PATH and make an alias in your .bashrc file for maximum comfort
+place the script on your **$PATH** and make an alias in your .bashrc file for maximum comfort
 
 
 
