@@ -17,7 +17,7 @@ ruri -av
 
 **[1-999] {Audio device name}** here you can find out which audio device you'd like for ruri to record.
 
-Change the value of the **video** and **audio** variables in ruri.sh (Line 4/5) accordingly.
+Change the value of the **video** and **audio** variables in ruri.sh (line 4/5) accordingly.
 ```
 #AUDIO/VIDEO
 
