@@ -1,9 +1,15 @@
-![](https://a.pomfe.co/brqwcju.png)
+
 # ruri
 
 A **fairly quick bash script for macOS** that lets you record your desktop via ffmpeg, convert it to .webm and upload it directly to your favourite pomf.se clone.
 
 I'm using **growlnotify** for the custom notifications. You can find my **Growl skin** [here](https://grassii.github.io/)
+
+## Demonstration
+
+![](images/demo.gif)
+
+[Fullscreen Demo](https://a.pomfe.co/yiyuvla.webm)
 
 ## Setup
 
@@ -53,9 +59,5 @@ Arguments:
 -c:     Convert + [filename]
 ```
 
-## Demonstration
 
-![](images/demo.gif)
-
-[Fullscreen Demo](https://a.pomfe.co/yiyuvla.webm)
-
+![](https://a.pomfe.co/brqwcju.png)
