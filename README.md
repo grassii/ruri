@@ -33,6 +33,7 @@ host="pomfe.co"
 up_url="https://pomfe.co/upload.php"
 down_url="https://a.pomfe.co"
 ```
+[Here's](https://github.com/tsudoko/long-live-pomf/blob/master/long-live-pomf.md) a list of pomf.se clones
 
 ## Usage
 
