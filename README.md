@@ -51,3 +51,7 @@ Arguments:
 
 -c:     Convert + [filename]
 ```
+
+## Demonstration
+
+[GitHub Logo](/images/logo.png)
