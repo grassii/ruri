@@ -1,5 +1,5 @@
 
-# ruri
+# Ruri
 
 A **fairly quick bash script for macOS** that lets you record your desktop via ffmpeg, convert it to .webm and upload it directly to your favourite pomf.se clone.
 
@@ -13,7 +13,7 @@ I'm using **growlnotify** for the custom notifications. You can find my **Growl 
 
 ## Dependencies
 
-You'll need **growlnotify** and **ffmpeg** for this to work
+You'll need **growlnotify** and **ffmpeg** for this script to work properly, although you can replace the growl notifications with something like [terminal-notifier](https://github.com/julienXX/terminal-notifier) (which just isn't as aesthetically pleasing as growl since it is much more customizable.
 
 ## Setup
 
