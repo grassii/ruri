@@ -14,14 +14,9 @@ ruri [filename] [-args]
 
 Arguments:
 ```
-#RECORDING
+-s:     Record sound output
+-60:    Switch to 60fps (Default: 30fps) NOTE: not currently compatible with -s
+-720p:  Switch to 720p (Default: 1080p)
 
--s      sound enabled
--60     60fps mode (no sound)
--720p   720p (default: 1080p)
-
-
-#CONVERSION
-
--c    convert + [filename]
+-c:     Convert + [filename]
 ```
