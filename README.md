@@ -56,4 +56,4 @@ Arguments:
 
 ![](images/demo.gif)
 
-![Fullscreen Demo](https://a.pomfe.co/bqgxmmy.webm)
+[Fullscreen Demo](https://a.pomfe.co/bqgxmmy.webm)
