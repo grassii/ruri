@@ -6,7 +6,7 @@ I'm using **growlnotify** for the custom notifications. You can find my **Growl 
 
 ## Setup
 
-place the script on your **$PATH** and make an alias in your .bashrc or .bash_profile for maximum comfort
+Place the script on your **$PATH** and make an alias in your .bashrc or .bash_profile for maximum comfort
 
 ```
 alias ruri="bash ruri.sh"
