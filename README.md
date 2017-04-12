@@ -15,9 +15,11 @@ ruri -av
 ```
 **[0] Capture screen 0** will be your main display
 
-**[1-999] {Audio device name}** here you can choose which audio device you'd like for ruri to record.
+**[1-999] {Audio device name}** here you can find out which audio device you'd like for ruri to record.
 
+Change the value of the **video** and **audio** variables in ruri.sh (Line 4/5) accordingly.
 
+To
 
 ## Usage
 
