@@ -22,7 +22,7 @@ You'll need:
 brew install ffmpeg --with-libvpx
 ```
 
-However, you can replace the growl notifications with something like [terminal-notifier](https://github.com/julienXX/terminal-notifier) (which just isn't as aesthetically pleasing as growl since it is much more customizable.
+However, you can replace the growl notifications with something like [terminal-notifier](https://github.com/julienXX/terminal-notifier) (which just isn't as aesthetically pleasing as growl since you can't really customize it.
 
 ## Setup
 
