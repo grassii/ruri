@@ -54,4 +54,4 @@ Arguments:
 
 ## Demonstration
 
-[GitHub Logo](/images/logo.png)
+[GitHub Logo](/demonstration.webm)
