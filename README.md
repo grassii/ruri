@@ -14,6 +14,7 @@ I'm using **growlnotify** for the custom notifications. You can find my **Growl 
 ## Dependencies
 
 You'll need:
+
 [Growl + growlnotify](http://growl.info/)
 
 [ffmpeg](https://www.ffmpeg.org)
