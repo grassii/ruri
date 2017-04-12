@@ -54,4 +54,4 @@ Arguments:
 
 ## Demonstration
 
-[GitHub Logo](/demonstration.webm)
+[Here!](https://raw.githubusercontent.com/grassii/ruri/master/demonstration.webm)
