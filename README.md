@@ -71,6 +71,3 @@ Arguments:
 
 -c:     Convert + [filename]
 ```
-
-
-![](https://a.pomfe.co/qjpvdhh.png)
