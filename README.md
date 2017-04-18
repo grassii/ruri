@@ -1,9 +1,9 @@
 
 # ruri.sh
 
-A **fairly quick bash script for macOS** that lets you record your desktop via ffmpeg, convert it to .webm and upload it directly to your favourite pomf.se clone.
+A **fairly quick bash script for OSX** that lets you record your desktop, convert it to .webm via ffmpeg and then upload it directly to your favourite pomf.se clone.
 
-I'm using **growlnotify** for the custom notifications. You can find my **Growl skin** [here](https://grassii.github.io/)
+I'm using **growlnotify** for the custom notifications. My **Growl skin** is available [here](https://github.com/grassii/ruri.sh/tree/master/misc/kuroneko.growlStyle/Contents)
 
 ## Demonstration
 
@@ -37,7 +37,7 @@ ruri -av
 ```
 **[0] Capture screen 0** will be your main display
 
-**[1-999] {Audio device name}** here you can find out which audio device you'd like for ruri to record.
+**[1-999] {Audio device name}** here you can find out which audio device you'd like ruri to record.
 
 Change the value of the **video** and **audio** variables in ruri.sh (line 4/5) accordingly.
 ```
