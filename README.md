@@ -1,7 +1,7 @@
 
 # ruri.sh
 
-A **fairly quick bash script for OSX** that lets you record your desktop, convert it to .webm via ffmpeg and then upload it directly to your favourite pomf.se clone.
+A **fairly quick bash script for macOS** that lets you record your desktop, convert it to .webm via ffmpeg and then upload it directly to your favourite pomf.se clone.
 
 I'm using **growlnotify** for the custom notifications. My **Growl skin** is available [here](https://github.com/grassii/ruri.sh/tree/master/misc/kuroneko.growlStyle/Contents)
 
