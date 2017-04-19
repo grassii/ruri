@@ -100,7 +100,7 @@ if [ "$1" == "-c" ]; then
       if [[ -n "${2}" ]]; then
         file="$2.webm"
         if [ -f "${file}" ]; then
-          printf "Uploading \033[1;31m$1.webm\033[0m to $host\n"
+          printf "Uploading \033[1;31m$2.webm\033[0m to $host\n"
           my_output=$(curl --silent -sf -F files[]="@${file}" "${up_url}")
           n=0  # Multipe tries
           while [[ $n -le 3 ]]; do
